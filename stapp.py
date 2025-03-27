@@ -684,7 +684,7 @@ with st.sidebar:
     st.write("📌 **Made by Vikrant Kumar (DM)**")
     st.markdown("""
         For feedback or queries:
-        - Email: vikrant.kumar@example.com
+        - Email: vikrunt@gmail.com
         - GitHub: [vikrant-dm](https://github.com/vikrant-dm)
     """)
 
